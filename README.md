@@ -43,3 +43,8 @@
 ## رابط الفيديو
 
 [https://www.dropbox.com/scl/fo/iyp9wsquztfoyafb6nsvf/AMkODBKorex3kQ40yFqMySM?rlkey=v23o2j90mb6md517v73djlbm9&st=rkoyddji&dl=0](https://www.dropbox.com/scl/fo/iyp9wsquztfoyafb6nsvf/AMkODBKorex3kQ40yFqMySM?rlkey=gne4orjgis713jb4uwy449a1i&st=it53gr22&dl=0)
+
+## العرض التقديمي 
+
+https://www.dropbox.com/scl/fo/x7epyx2ob3ms7urn2ugzg/ABgMpNGgzrz6WmV83RvN0us?rlkey=d9g3zinuppwvcu3p36vvcq10j&st=db6m6u9l&dl=0
+
