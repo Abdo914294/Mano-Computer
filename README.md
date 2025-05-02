@@ -39,3 +39,7 @@
 - شرح تصميم المشروع وأخذ فكرة عامة عنه
 - عمل تنفيذ لبعض الأوامر مثل : LDA,ISZ
 - شرح نتيجة المحاكاة علي برنامج vivado
+
+## رابط الفيديو
+
+https://www.dropbox.com/scl/fo/iyp9wsquztfoyafb6nsvf/AMkODBKorex3kQ40yFqMySM?rlkey=v23o2j90mb6md517v73djlbm9&st=rkoyddji&dl=0
